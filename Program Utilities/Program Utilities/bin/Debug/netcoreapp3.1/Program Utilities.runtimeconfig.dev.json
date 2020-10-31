@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cloudsan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cloudsan\\.nuget\\packages"
+    ]
+  }
+}

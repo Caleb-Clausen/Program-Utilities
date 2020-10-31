@@ -1,0 +1,13 @@
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\bin\Debug\netcoreapp3.1\Program Utilities.exe
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\bin\Debug\netcoreapp3.1\Program Utilities.deps.json
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\bin\Debug\netcoreapp3.1\Program Utilities.runtimeconfig.json
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\bin\Debug\netcoreapp3.1\Program Utilities.runtimeconfig.dev.json
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\bin\Debug\netcoreapp3.1\Program Utilities.dll
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\bin\Debug\netcoreapp3.1\Program Utilities.pdb
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\obj\Debug\netcoreapp3.1\Program Utilities.csprojAssemblyReference.cache
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\obj\Debug\netcoreapp3.1\Program Utilities.AssemblyInfoInputs.cache
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\obj\Debug\netcoreapp3.1\Program Utilities.AssemblyInfo.cs
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\obj\Debug\netcoreapp3.1\Program Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\obj\Debug\netcoreapp3.1\Program Utilities.dll
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\obj\Debug\netcoreapp3.1\Program Utilities.pdb
+C:\Users\Cloudsan\Desktop\GitHubProjects\Combined Projects\Program Utilities\Program Utilities\obj\Debug\netcoreapp3.1\Program Utilities.genruntimeconfig.cache
